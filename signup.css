@@ -1,0 +1,27 @@
+html {
+	scroll-behavior: smooth;
+}
+
+.signup-page {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	width: 100vw;
+	height: 100vh;
+	background-size: cover;
+}
+
+.signup-card {
+	width: 400px;
+	background: #fff;
+	padding: 40px;
+	border-radius: 6px;
+}
+
+.signup-logo {
+	margin: auto;
+}
+
+#signup-form {
+	margin-right: 100px;
+}
